@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+html {
+    background-color: rgb(156, 166, 176);
+    background-image: url("../images/background.jpeg");
+    background-size: cover;
+}
+body {
+    font-family: 'Roboto', Helvetica Neue, Helvetica, sans-serif;
+}
+.row-buffer {
+    margin-top: 25px;
+}
+.text-center {
+    text-align: center;
+}
+.spacerline {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(185, 185, 185);
+}
+.linebreak {
+    display: inline-block;
+}
+.container {
+    max-width: 900px;
+    background-color: white;
+    padding: 25px;
+    padding-bottom: 0px;
+    margin-top: -37px;
+    height: 100%;
+}

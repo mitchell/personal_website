@@ -1,0 +1,38 @@
+doctype html
+html
+  head
+    meta charset="utf-8"
+    title
+      | Home | Mitchell J. F. Simon
+    meta name="description" content=""
+    meta name="author" content="Mitchell Simon"
+    meta name="viewport" content="width=device-width, initial-scale=1"
+
+    link rel="stylesheet" href="css/normalize.css"
+    link rel="stylesheet" href="css/skeleton.css"
+    link rel="stylesheet" href="css/main.css"
+
+  body
+    div class="container"
+      div class="row row-buffer" style="text-align: center"
+        h4 Mitchell J. F. Simon
+        h6 
+          ' Computer Science,
+          span class="linebreak"
+            a href="http://www.lmu.edu"
+              Loyola Marymount University
+        h6
+          code mitchell@mitchelljfsimon.com
+        h6
+          a href="https://www.mitchelljfsimon.com/"
+            | https://mitchelljfsimon.com
+
+      == yield
+      
+      div class="row row-buffer"
+        p 
+          | Copyright © 2017 
+          a href="./contact"
+            Mitchell Simon
+
+    script src="js/jquery-3.2.0.min.js"
