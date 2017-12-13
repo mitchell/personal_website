@@ -1,8 +1,8 @@
 ---
 -
   title: www.mitchelljfsimon.com
-  description: This very website is an exercise in HTML and CSS, for myself. So far the project is relatively simple, but its primary focus is to create a efficiently communicated, minimal, scalable website using the Skeleton CSS framework, so it should be simple.
-  repository_url: https://github.com/mitchelljfs/website
+  description: This website was a simple example of a static HTML site using a responsive CSS boilerplate, but it has graduated to technically become a Sinatra (ruby) web app. It uses Slim-lang for the template engine and YAML to store static data. It still uses Skeleton CSS boilerplate to remain responsive.
+  repository_url: https://github.com/mitchelljfs/personal_website
   website_url: https://www.mitchelljfsimon.com/
 -
   title: madmaan
@@ -10,13 +10,13 @@
   repository_url: https://github.com/mitchelljfs/madmaan
   website_url: https://mitchelljfs.github.io/madmaan
 -
-  title: tannergrandstaff.com
-  description: For this project I was requested to make a minimal style, professional website, for my friend, Tanner Grandstaff. He is a producer, DJ, audio engineer, and more; and I was tasked with creating a website to represent that. The website, was made using the Bootstrap framework, which provides the website's scalability.
-  repository_url: https://github.com/mitchelljfs/tannergrandstaff.com
-  website_url: http://tannergrandstaff.com/
--
   title: Paradixm
   description: This project is one I participated in as part of my Interaction Design course at LMU. It is a project to catalog all UI elements on all platforms in hopes to build the ultimate UI. That dream is held by my Interaction Design course instructor, Prof. John David Dionisio, at Loyola Marymount University. The project is getting fairly populated but still has a couple of semesters until it comes to full fruition. The website I've linked is the website for the main fork of the project managed by Prof. Dionisio.
   repository_url: https://github.com/mitchelljfs/paradixm
   website_url: https://dondi.github.io/paradixm
+-
+  title: tannergrandstaff.com
+  description: For this project I was requested to make a minimal style, professional website, for my friend, Tanner Grandstaff. He is a producer, DJ, audio engineer, and more; and I was tasked with creating a website to represent that. The website, was made using the Bootstrap framework, which provides the website's scalability.
+  repository_url: https://github.com/mitchelljfs/tannergrandstaff.com
+  website_url: http://tannergrandstaff.com/
 ...

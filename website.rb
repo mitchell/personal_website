@@ -23,4 +23,9 @@ class Website < Sinatra::Base
     @title = 'Contact'
     slim :contact, layout: :main
   end
+
+  not_found do
+    @title = 'Page Not Found'
+    slim :not_found, layout: :main
+  end
 end
