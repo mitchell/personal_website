@@ -1,22 +1,40 @@
 ---
 -
   title: www.mitchelljfsimon.com
-  description: This website was a simple example of a static HTML site using a responsive CSS boilerplate, but it has graduated to technically become a Sinatra (ruby) web app. It uses Slim-lang for the template engine and YAML to store static data. It still uses Skeleton CSS boilerplate to remain responsive.
+  description:
+    This website was a simple example of a static HTML site using a responsive
+    CSS boilerplate, but it has graduated to technically become a Sinatra (ruby)
+    web app. It uses Slim-lang for the template engine and YAML to store static
+    data. It still uses Skeleton CSS boilerplate to remain responsive.
   repository_url: https://github.com/mitchelljfs/personal_website
   website_url: https://www.mitchelljfsimon.com/
 -
   title: madmaan
-  description: madmaan is a programming language that myself and a group of classmates have been working on for our Language Translation and Design class. It aims to make JavaScript a more readable and enjoyable language to write. However, it is still very much under development.
+  description:
+    madmaan is a programming language that myself and a group of classmates created
+    for our Language Translation and Design class. It aims to make JavaScript a
+    more readable and enjoyable language to write. However, it is still very much
+    under development.
   repository_url: https://github.com/mitchelljfs/madmaan
   website_url: https://mitchelljfs.github.io/madmaan
 -
+  title: memebank API
+  description:
+    This is a RESTful API using the Rails framework to support the front end application
+    of memebank. It uses JWT authentication for stateless account authentication,
+    and bcrypt for password encryption. It communicates with the front-end using
+    basic HTTP requests and JSON objects.
+  repository_url: https://github.com/aherco/memebank-api.git
+  website_url: https://memebank.life
+-
   title: Paradixm
-  description: This project is one I participated in as part of my Interaction Design course at LMU. It is a project to catalog all UI elements on all platforms in hopes to build the ultimate UI. That dream is held by my Interaction Design course instructor, Prof. John David Dionisio, at Loyola Marymount University. The project is getting fairly populated but still has a couple of semesters until it comes to full fruition. The website I've linked is the website for the main fork of the project managed by Prof. Dionisio.
+  description:
+    This project is one I participated in as part of my Interaction Design course
+    at LMU. It is a project to catalog all UI elements on all platforms in hopes
+    to build the ultimate UI. That dream is held by my Interaction Design course
+    instructor, Prof. John David Dionisio, at Loyola Marymount University. The
+    project is getting fairly populated but still has a couple of semesters until
+    it comes to full fruition.
   repository_url: https://github.com/mitchelljfs/paradixm
   website_url: https://dondi.github.io/paradixm
--
-  title: tannergrandstaff.com
-  description: For this project I was requested to make a minimal style, professional website, for my friend, Tanner Grandstaff. He is a producer, DJ, audio engineer, and more; and I was tasked with creating a website to represent that. The website, was made using the Bootstrap framework, which provides the website's scalability.
-  repository_url: https://github.com/mitchelljfs/tannergrandstaff.com
-  website_url: http://tannergrandstaff.com/
 ...
