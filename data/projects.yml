@@ -9,15 +9,6 @@
   repository_url: https://github.com/mitchelljfs/personal_website
   website_url: https://www.mitchelljfsimon.com/
 -
-  title: madmaan
-  description:
-    madmaan is a programming language that myself and a group of classmates created
-    for our Language Translation and Design class. It aims to make JavaScript a
-    more readable and enjoyable language to write. However, it is still very much
-    under development.
-  repository_url: https://github.com/mitchelljfs/madmaan
-  website_url: https://mitchelljfs.github.io/madmaan
--
   title: memebank API
   description:
     This is a RESTful API using the Rails framework to support the front end application
@@ -27,14 +18,24 @@
   repository_url: https://github.com/aherco/memebank-api.git
   website_url: https://memebank.life
 -
-  title: Paradixm
+  title: reddit Neo4J Database
   description:
-    This project is one I participated in as part of my Interaction Design course
-    at LMU. It is a project to catalog all UI elements on all platforms in hopes
-    to build the ultimate UI. That dream is held by my Interaction Design course
-    instructor, Prof. John David Dionisio, at Loyola Marymount University. The
-    project is getting fairly populated but still has a couple of semesters until
-    it comes to full fruition.
-  repository_url: https://github.com/mitchelljfs/paradixm
-  website_url: https://dondi.github.io/paradixm
+    A learning Neo4j database project of a sample of comments on the popular social 
+    media platform Reddit. 
+    A possible prototype database for Reddit to run on Neo4j. It can show the 
+    relationships between users, their comments, and subreddits. With this information 
+    we can infer demographic information about reddits users. For example we could 
+    see which subreddits have the same users who post comments, and where else 
+    they post.
+  repository_url: https://github.com/mitchelljfs/comment_context_analysis
+  website_url: https://github.com/mitchelljfs/comment_context_analysis
+-
+  title: madmaan
+  description:
+    madmaan is a programming language that myself and a group of classmates created
+    for our Language Translation and Design class. It aims to make JavaScript a
+    more readable and enjoyable language to write. However, it is still very much
+    under development.
+  repository_url: https://github.com/mitchelljfs/madmaan
+  website_url: https://mitchelljfs.github.io/madmaan
 ...
