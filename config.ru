@@ -1,3 +1,3 @@
-require File.expand_path('website', File.dirname(__FILE__))
+require './website.rb'
 
 run Website

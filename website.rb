@@ -2,7 +2,7 @@ require 'sinatra/base'
 require 'yaml'
 
 # Website sinatra controller class
-class Website < Sinatra::Base
+class Website < Sinatra::Application
   get '/' do
     @title = 'Home'
     slim :index, layout: :main

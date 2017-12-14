@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 html {
     background-color: rgb(156, 166, 176);
-    background-image: url("../images/background.jpeg");
+    background-image: url("/images/background.jpeg");
     background-size: cover;
+    background-repeat: no-repeat;
 }
 body {
     font-family: 'Roboto', Helvetica Neue, Helvetica, sans-serif;
@@ -27,7 +28,6 @@ body {
     padding: 25px;
     padding-bottom: 0px;
     margin-top: -37px;
-    height: 100%;
 }
 .button {
     margin-right: 2px;
